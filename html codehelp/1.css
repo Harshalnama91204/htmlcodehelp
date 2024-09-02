@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body{
+    background-color: black;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    height:100vh ;
+}
+.container{
+    width:70%;
+    height:600px;
+    background-color:rgb(83, 78, 78);
+}
+.left{
+    width:30%
+}
+.right{
+    width:40%
+}

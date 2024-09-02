@@ -1,0 +1,30 @@
+   div{
+    height:100px;
+    width:100px;
+    background-color:rgb(53, 12, 168);
+    border-width:4px;
+    border-style:solid;
+    color:black;
+    text-align: right; 
+    border-radius:10px;
+} 
+
+/* h1{
+    height:50px;
+    width:200px;
+    border-style:dashed;
+    border-width:5px;
+    text-align:center;
+    border-color:blueviolet;
+
+}
+button{
+    border-radius:10px;
+    background-color: aqua;
+    color:azure;
+    height:25px;
+    width:90px;
+}  */
+
+ 
+
